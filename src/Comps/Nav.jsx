@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from "react-router-dom";
-import './Styles/Nav.scss';
+import '../Styles/Nav.scss';
 
 const Nav = () => {
 
